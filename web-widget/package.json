@@ -1,6 +1,6 @@
 {
   "name": "Sample-JS-Web-Widget",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "SendBird Widget Sample",
   "main": "index.js",
   "scripts": {
